@@ -16,7 +16,9 @@ namespace diziExample2
             for (int i = 0; i < sayilar.Length; i++)
             {
                 sayilar[i] = rnd.Next(1, 200);
+                Console.WriteLine(sayilar[i]+"\t");
             }
+            Console.WriteLine();
             //A
             int sayac = 0;
             for (int i = 0; i < sayilar.Length; i++)
@@ -40,6 +42,18 @@ namespace diziExample2
 
             ortalama = toplam / sayacB;
             Console.WriteLine("150den küçük sayıların ortalamsı:{0}",ortalama);
+            //C
+            int sayacC = 0;
+            for (int i = 0; i < sayilar.Length;i++)
+                
+            {
+                if (sayilar[i]%2==0)
+                {
+                    sayacC++;
+                }
+            }
+            Console.WriteLine("Diziden {0} tane çift sayı vardır.",sayacC);
+
         }
     }
 }

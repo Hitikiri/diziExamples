@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.exe
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.deps.json
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.runtimeconfig.json
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.dll
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\ref\diziExample3.dll
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\bin\Debug\net5.0\diziExample3.pdb
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.dll
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\ref\diziExample3.dll
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.pdb
+C:\Users\Bekir\Desktop\github\diziExamples\diziExample3\diziExample3\obj\Debug\net5.0\diziExample3.genruntimeconfig.cache
